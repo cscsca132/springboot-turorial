@@ -1,0 +1,22 @@
+{
+  "aliyunApiKey": "__SET_ALIYUN_API_KEY__",
+  "enableAliyunImage": true,
+  "enableAliyunVideo": true,
+  "enableAliyunVoice": true,
+  "aliyunImageModel": "wan2.6-image",
+  "aliyunVideoModel": "wan2.6-i2v",
+  "aliyunGuideModel": "qwen-max",
+  "aliyunFastGuideModel": "qwen-turbo",
+  "aliyunAsrModel": "qwen3-asr-flash",
+  "aliyunVoiceEnrollmentModel": "qwen-voice-enrollment",
+  "aliyunVoiceSynthesisModel": "qwen3-tts-vc-2026-01-22",
+  "cosyVoiceModel": "qwen3-tts-vc-2026-01-22",
+  "enableAliyunVideoEnhance": true,
+  "aliyunVideoEnhanceEndpoint": "videoenhan.cn-shanghai.aliyuncs.com",
+  "aliyunVideoEnhanceVersion": "2020-03-20",
+  "aliyunVideoEnhanceAction": "EnhancePortraitVideo",
+  "aliyunVideoEnhanceAccessKeyId": "__SET_ALIYUN_VIDEO_ENHANCE_ACCESS_KEY_ID__",
+  "aliyunVideoEnhanceAccessKeySecret": "__SET_ALIYUN_VIDEO_ENHANCE_ACCESS_KEY_SECRET__",
+  "tencentCosBucketDomain": "__SET_TENCENT_COS_BUCKET_DOMAIN__",
+  "tencentCosPrefix": "huangmei"
+}
