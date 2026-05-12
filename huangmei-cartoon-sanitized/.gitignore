@@ -1,0 +1,11 @@
+# secrets and build artifacts
+*.apk
+*.idsig
+*.jks
+*.keystore
+*.pk8
+*.pem
+private.runtime.json
+.DS_Store
+build/
+apk_analysis/tools/
